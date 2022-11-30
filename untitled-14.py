@@ -1,3 +1,5 @@
+print(str(97 % 87))
+
 n = int(input("number :- "))
 
 mach = n % 1
@@ -13,10 +15,11 @@ else:
 devided_numbers = []
 
 for i in range(2, n):
-    devided_numbers += str(n % i)
+    devided_numbers += str( (n % i) + 1)
     print(devided_numbers)
 
 if '0' in devided_numbers:
     print("It's not a prime number")
 else:
     print("It's a prime number.")
+
