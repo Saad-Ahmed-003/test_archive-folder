@@ -16,7 +16,7 @@ for i in range(2, n):
     devided_numbers += str(n % i)
     print(devided_numbers)
 
-if 0 in devided_numbers:
+if '0' in devided_numbers:
     print("It's not a prime number")
 else:
     print("It's a prime number.")
