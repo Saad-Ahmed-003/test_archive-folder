@@ -38,7 +38,7 @@ if direction == "encode":
     shift = int(input("Type the shift number:\n"))
     msg = encrypt(plain_text=text, shift_amount=shift)
 if direction == "decode":
-    msg = input("type the encoded text")
+    msg = input("type the encoded text\n")
     shift = int(input("Type the shift number:\n"))
     decript(plain_text = msg, shift_amount = shift)
 
