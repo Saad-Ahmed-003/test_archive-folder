@@ -6,17 +6,17 @@ list_1 = {
     "day": {0: 1, 1: 31}
 }
 
-tuple_1 = ()
-tuple_2 = ()
+list_3 = []
+list_2 = []
 
 
 for i in list_1:
     for x in list_1[i]:
         if x == 0:
-            tuple_1 += list_1[i][x]
+            list_3.append(list_1[i][x])
         elif x == 1:
-            tuple_2 += list_1[i][x]
+            list_2.append(list_1[i][x])
 
-print(tuple_1)
-print(tuple_2)
+print(list_3)
+print(list_2)
 
