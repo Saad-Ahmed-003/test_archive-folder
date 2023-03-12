@@ -8,11 +8,12 @@ header2 = {
 
 respond1 = requests.get(url=f"https://api.genderize.io/?name=saad")
 respond2 = requests.get(url=f"https://api.agify.io/?name=saad")
-respond3 = requests.get(url="https://www.npoint.io/docs/c790b4d5cab58020d391", headers=header2)
+respond3 = requests.get(url="")
 
 print(respond1.text, "\n", respond2.text)
 
 get_name = respond2.json()
-blog = respond3.text
+blog = respond3.json()
 print(get_name["age"])
-print(blog)
+for i in blog:
+    print(i)
