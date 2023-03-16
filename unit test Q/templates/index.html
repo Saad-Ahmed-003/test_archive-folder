@@ -5,13 +5,12 @@
     <title>Title</title>
 </head>
 <body>
-    <form action="{{ num }}" method="get" target="_blank">
-        <label for="fname">First name:</label>
-        <input type="text" id="fname" name="fname"><br><br>
-        <label for="lname">Last name:</label>
-        <input type="text" id="lname" name="lname"><br><br>
-        <input type="submit" value="Submit">
+    <form action="/login" method="post">
+        <label>Name</label>
+        <input type="text" placeholder="name" name="username">
+        <label>Password</label>
+        <input type="text" placeholder="password" name="password">
+        <button type="submit">Ok</button>
     </form>
-    <h2>{{ post }}</h2>
 </body>
 </html>
