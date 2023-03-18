@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de7ea3dd-9698-4c6e-be2a-b5317b03c6e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sql testing python/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/unit-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/unit-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled-.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled-5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blackjack/untitled 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blackjack/untitled.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/Untitled-4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/Untitled-6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/Untitled-7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/Untitled-8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/Untitled-9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/nutitled-11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/untitled-10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/untitled-12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hang man/untitled-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/higher lower/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/higher lower/game_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/higher lower/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/number game/untitled.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rock paper scissors/Untitled-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit test Q/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit test Q/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 23/coffee machine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 23/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 24/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 24/oop-coffee-machine-start/coffee_maker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 24/oop-coffee-machine-start/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 24/oop-coffee-machine-start/menu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 24/oop-coffee-machine-start/money_machine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 25/classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 26/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 26/paddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 27/car_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 27/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 27/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 27/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 28/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 28/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 29/50_states.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 29/blank_states_img.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 29/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 30/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 30/new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 31/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled 32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-13/hangman_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-13/hangman_words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-13/untitled-13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-18/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-18/untitled-18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-18/untitled19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-22/art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled-22/untitled-22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled_57.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jtv1L8bKUz0cTUWd7wKjBvSU1t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/GitHub/unit-tests&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de7ea3dd-9698-4c6e-be2a-b5317b03c6e1" name="Changes" comment="" />
+      <created>1672909977621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672909977621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
